@@ -8,7 +8,7 @@ Welcome to the development hub for Exdecay! This is where our team collaborates 
 
 To get started check out Tasks. If you have any questions DM me.
 
-- [Tasks](URL "[Title Text](https://github.com/Grvdigger/Exdecay-Github/tree/main/Tasks)")
+- [Tasks](URL "https://github.com/Grvdigger/Exdecay-Github/tree/main/Tasks")
  
 
 ### Contributing
